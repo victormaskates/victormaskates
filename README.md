@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web design, software design,networking and cyber security
 - 🌱 I’m currently learning ...cyber security and software design
 - 💞️ I’m looking to collaborate on ...cyber security
-- 📫 How to reach me ... via email address djmaskates@gmail.com
+- 📫 How to reach me ... via email address victorkipkoech289@gmail.com
 
 <!---
 victorkipkoech/victormaskates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
